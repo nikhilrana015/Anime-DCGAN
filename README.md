@@ -8,16 +8,16 @@ DCGAN consists of two parts. In this case, these are:
 
 
 # Model Structure
-![image](https://sigmoidal.io/wp-content/uploads/2017/09/generator_and_discriminator1.png)
+![Mode Structure](https://sigmoidal.io/wp-content/uploads/2017/09/generator_and_discriminator1.png)
 
 # Conversion of Noisy image to output gif
-![image](https://i.redd.it/yqqfdun5hxa11.jpg)
+![Noisy Image](https://i.redd.it/yqqfdun5hxa11.jpg)
 
 # Output GIF
-![Alt Text](https://github.com/nikhilrana015/Anime-DCGAN/blob/master/gan_generator.gif)
+![GIF](https://github.com/nikhilrana015/Anime-DCGAN/blob/master/gan_generator.gif)
 
 # Actual Anime Images
-![Alt Text](https://miro.medium.com/max/2164/1*4oqZHrOOZRDzMsJA_eqW1g.png)
+![Actual Anime](https://miro.medium.com/max/2164/1*4oqZHrOOZRDzMsJA_eqW1g.png)
 
 
 # RESOURCES
