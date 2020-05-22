@@ -16,6 +16,9 @@ DCGAN consists of two parts. In this case, these are:
 # Output GIF
 ![Alt Text](https://github.com/nikhilrana015/Anime-DCGAN/blob/master/gan_generator.gif)
 
+# Actual Anime Images
+![Alt Text](https://miro.medium.com/max/2164/1*4oqZHrOOZRDzMsJA_eqW1g.png)
+
 
 # RESOURCES
 1. [Research Paper](https://arxiv.org/pdf/1511.06434.pdf)
